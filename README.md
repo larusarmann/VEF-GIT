@@ -1,7 +1,7 @@
 # Verkefni1
 
-#### Git spurningar og svör
-5 grein
+#### Git ný grein
+
 ## 1. 
 - cd færir þig fram og aftur um directories
 - ls listar upp allt inná directoryinu sem þú ert staðsettur á

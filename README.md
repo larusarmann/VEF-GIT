@@ -12,3 +12,8 @@
 - git clone er notað til að clona af repo-i og færa það í local directory
 - Git status skipunin sýnir stöðu vinnuskrárinnar og sviðsetningarsvæðið.
 - git Diff er aðgerð sem tekur tvö innslátti og segir svo frá mismuni á milli þessa tveggja.
+
+## 3.
+- git log er notað til að sjá history-ið af öllu sem hefur verið bætt við og breytt í repositoryinu
+- git checkout gerir þér kleift að fletta á milli branches sem eru búin til af git branch
+- branch í Git er einfaldlega léttur hreyfanlegur bendir á einn af þessum commits.

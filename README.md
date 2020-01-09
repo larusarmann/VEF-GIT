@@ -17,3 +17,6 @@
 - git log er notað til að sjá history-ið af öllu sem hefur verið bætt við og breytt í repositoryinu
 - git checkout gerir þér kleift að fletta á milli branches sem eru búin til af git branch
 - branch í Git er einfaldlega léttur hreyfanlegur bendir á einn af þessum commits.
+
+## 4.
+Útgáfustýring gerir þér kleift að stjórna breytingum með tímanum.

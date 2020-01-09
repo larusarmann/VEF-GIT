@@ -20,3 +20,6 @@
 
 ## 4.
 Útgáfustýring gerir þér kleift að stjórna breytingum með tímanum.
+
+## 5.
+Einn stærsti kosturinn við Git er branch capabilities

@@ -23,3 +23,6 @@
 
 ## 5.
 Einn stærsti kosturinn við Git er branch capabilities
+
+## 6.
+það á að committa eftir hvert svar en oftast ætti að committa allavegana á hálvtíma fresti, helst oftar
